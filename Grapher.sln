@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26206.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grapher", "Grapher\Grapher.csproj", "{76A9EADF-8567-492B-BDE3-C46237B90CD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grapher", "Grapher.csproj", "{76A9EADF-8567-492B-BDE3-C46237B90CD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4B463B-304A-4563-9C2D-4D41B8F00365}
 	EndGlobalSection
 EndGlobal
